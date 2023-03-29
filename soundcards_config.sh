@@ -1,5 +1,5 @@
 #!/bin/bash
-vol=50
+vol=80
 yast2 sound remove all
 for (( i=0; i<=4; i++ ))
   do
